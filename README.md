@@ -1,6 +1,6 @@
-👋 Hello there 👋 I`m Vasil Rangelov </bg>
-🌱 I’m currently learning Django & Python 🌱 </bg>
-📫 How to reach me: vrangelov85@abv.bg 📫 </bg>
+👋 Hello there 👋 I`m Vasil Rangelov  
+🌱 I’m currently learning Django & Python 🌱  
+📫 How to reach me: vrangelov85@abv.bg 📫  
 <!--
 **vasskess/vasskess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
