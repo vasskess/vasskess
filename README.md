@@ -1,5 +1,6 @@
-### Hi there 👋
-
+👋 Hello there 👋 I`m Vasil Rangelov
+🌱 I’m currently learning Django & Python 🌱
+📫 How to reach me: Link to [https://abv.bg](vrangelov85@abv.bg)
 <!--
 **vasskess/vasskess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
