@@ -1,6 +1,7 @@
 👋 Hello there 👋 My name is Vasil Rangelov  
 :school: I’m currently learning Django & Python at SoftUni :school:  
 :mailbox: vrangelov85@abv.bg :mailbox: 
+</br>
 [![linkedin](https://user-images.githubusercontent.com/96621183/194552520-88fe06f0-a76b-49a6-a7e0-ca0f6958b80f.png)](https://www.linkedin.com/in/vasil-rangelov-739b93181/)
 
 <!--
